@@ -3,15 +3,11 @@ Media Size
 
 This is a css/less file for media size query.
 
-It is a starting point for making responsive web design 
+It is a starting point for making responsive web design.
 
-when you want to make content matching the device sizes.
+Originate from this `statckoverflow answer`_
 
-Origin From this `statckoverflow answer`_
-
-
-
-Also you can use bootstrap's responsive-utilities_
+If you are using bootstrap ,you can use bootstrap's responsive-utilities_
 
 If you're unfamiliar with the concepts surrounding Responsive Web Design, you can read up here_
 
